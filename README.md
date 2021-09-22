@@ -1,1 +1,1 @@
-# Enigmo-8-
+# Enigmo-8- A puzzle game developed using Java Forms with Timer function enabled. The game comprises of two game types and 3 levels. User can move on to the next level only if he / she completes the previous level. Timer function in java has been used to make the game more interesting and game will automatically end when time gets completed. 
